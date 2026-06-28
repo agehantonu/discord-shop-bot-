@@ -196,3 +196,4 @@ https://discord.gg/ghgpx4EQFC
 
 https://discord.com/users/1512652537407340674
 
+<h3>ソースコードも販売してます（笑）</h3>
