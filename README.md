@@ -1,5 +1,9 @@
 
-<p align="center"><img src="https://cdn.discordapp.com/attachments/1517808149036400730/1520744215699783720/loji-the-fire-rises.gif" alt="loji-the-fire-rises"></p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/0dc3517b-9f92-44ff-a12d-6f6a18ccbecb" alt="loji-the-fire-rises">
+</p>
+
+
 
 <h1 align="center">多機能自販機 機能集</h1>
 
