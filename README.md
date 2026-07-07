@@ -210,7 +210,7 @@
 
 | 項目 | URL |
 |------|-----|
-| **Bot招待** | https://discord.com/oauth2/authorize?client_id=1516814724811980820&permissions=8&integration_type=0&scope=bot |
+| **Bot招待** | https://discord.com/oauth2/authorize?client_id=1523343343658995853&permissions=8&scope=bot%20applications.commands |
 | **サポートサーバー** | https://discord.gg/ghgpx4EQFC |
 | **製作者** | https://discord.com/users/1512652537407340674 |
 
